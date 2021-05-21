@@ -1,5 +1,6 @@
 # Tic-Tac-Toe
 Tic-Tac-Toe game in Windows Forms.
+Main code is in Form1.cs
 
 FORM. The form contains a grid with nine buttons aligned to form the 3x3 board and a reset button. 
 
